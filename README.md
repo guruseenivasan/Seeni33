@@ -8,6 +8,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,git,github" /> </p>
 
 🚀 Featured Projects
+
 📅 iMeetify – Appointment Scheduling Platform
 
 ✔ Responsive SaaS UI built with HTML, CSS, Bootstrap & Tailwind
