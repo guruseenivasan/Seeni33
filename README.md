@@ -12,7 +12,9 @@
 📅 iMeetify – Appointment Scheduling Platform
 
 ✔ Responsive SaaS UI built with HTML, CSS, Bootstrap & Tailwind
+
 ✔ Improved booking workflows & user experience
+
 ✔ Reusable UI components & accessibility (WCAG)
 
 🏥 Healthcare Appointment System
