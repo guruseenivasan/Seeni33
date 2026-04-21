@@ -54,8 +54,8 @@
 ⚡ Skilled in building responsive, accessible, and scalable web apps
 📈 Focused on performance, clean code, and modern UI practices
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+⚡ Fun Touch
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" /> </p>
 
 ## 🌟 My Goal
 To grow as a **Full-Stack Developer** while contributing to impactful projects and staying up-to-date with modern web technologies.
