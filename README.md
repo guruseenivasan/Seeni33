@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Guru Seenivasan V
+👋 Hi, I'm Guruseenivasan V
+<h3 align="center">Frontend Developer (UI/UX Focus) | Building Clean & Responsive Web Experiences</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2CB&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Responsive+Web+Specialist;Clean+Code+Advocate" /> </p>
 
 💻 **Front-End Developer** with **2 years of experience** building responsive, user-friendly, and performance-focused web applications.  
 🚀 Skilled in modern frameworks, UI/UX practices, and clean, maintainable code.
