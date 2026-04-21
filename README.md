@@ -20,18 +20,23 @@
 🏥 Healthcare Appointment System
 
 ✔ Designed intuitive doctor-patient interface
+
 ✔ Responsive layouts across devices
+
 ✔ Focused on usability and clean UI
 
 📝 Feedback & Survey System
 
 ✔ Dynamic form builder with real-time rendering
+
 ✔ Reusable components & responsive design
 
 📧 Email Campaign Templates
 
 ✔ Designed responsive email templates
+
 ✔ Tools: Stripo + Brevo
+
 ✔ Reached 10,000+ users
 
 **Tech Stack:**  
